@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/Yingjun/Desktop/bird-classifier.tfl"
+all_model_checkpoint_paths: "/Users/Yingjun/Desktop/bird-classifier.tfl"
